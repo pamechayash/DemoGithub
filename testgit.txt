@@ -1,3 +1,6 @@
 dummy text
 
 git another change
+
+
+another change from feature branch
