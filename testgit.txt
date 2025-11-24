@@ -3,4 +3,4 @@ dummy text
 git another change
 
 
-another change from feature branch
+another change from feature branch .
